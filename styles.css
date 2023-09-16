@@ -1,0 +1,30 @@
+body{
+    font-family: 'Gluten', cursive;
+    font-family: 'Roboto Serif', serif;
+}
+.post{
+    margin:auto;
+    width:40%;
+}
+.ellipses{
+    float:right;
+    font-size:20px;
+    padding:4px;
+}
+img{
+    max-width: 100%;
+}
+.fa-html5{
+    font-size:20px;
+    float:left;
+    position:center;
+    padding:4px;
+}
+.fa-bookmark{
+    float:right;
+}
+.header-text{
+    font-size:10px;
+    position:center;
+    padding:4px;
+}
